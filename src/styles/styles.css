@@ -1,0 +1,31 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.bg-dark {
+    background-color: #fff!important;
+}
+
+.logo {
+    color: #000000!important;
+}
+
+.image {
+    max-width: 15rem;
+    max-height: 15rem;
+    padding: 1rem 0 1rem 1rem;
+}
+
+.centralizar {
+    text-align: center;
+    margin-top: 1rem
+}
+
+.btn-danger {
+    margin-top: 0.7rem;
+    padding: 1rem;
+}
+
+.size-breed {
+    font-size: 0.9rem;
+}

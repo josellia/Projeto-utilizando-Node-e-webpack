@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://meu-dog/src/styles/styles.css"],"names":[],"mappings":"AAAA;IACI,yBAAyB;AAC7B,C","file":"css/bundle.css","sourcesContent":["body {\r\n    background-color: #f1f1f1;\r\n}"],"sourceRoot":""}
